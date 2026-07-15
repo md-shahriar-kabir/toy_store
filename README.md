@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏪 Store Admin Dashboard (Frontend Showcase)
 
-## Getting Started
+> ## ⚠️ IMPORTANT ASSIGNMENT NOTICE
+> **PLEASE NOTE:** This current deployment represents the **Frontend UI & TypeScript architecture only**. It has been deployed at this stage to fulfill my current assignment requirements, showcasing advanced client-side state handling, dynamic UI rendering, and strict type safety. 
+> 
+> **Current Status:** I am actively working on the Backend infrastructure. The full-stack integration (database, API endpoints, and server authentication) will be fully completed and merged in the next phase of development.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A modern, highly responsive, and beautifully animated **Frontend Prototype** for an E-commerce & Shop Management Dashboard. Built using **Next.js** (App Router), **Tailwind CSS**, **TypeScript**, and optimized **Shadcn UI** component patterns.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This codebase serves as a pure user interface implementation, demonstrating advanced state handling, responsive grid layouts, data filtering, and interactive UI states for modern store management.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Main Frontend Modules
 
-## Learn More
+- **📊 Interactive Analytics:** Pure Tailwind CSS animated revenue graphs, traffic source distribution bars, and high-fidelity tabular data for product metrics.
+- **👥 Access & Role Management:** Dynamic role modification (`Admin`, `Manager`, etc.), simulated member invitations, and deletion guards using custom modal overlay flows.
+- **🛍️ Customer Base Engine:** Client-side dynamic state controls featuring live status filtering (`Active`, `Blocked`), quick search functionality, and grid-to-list view toggles.
+- **⚙️ Configurable Store Forms:** State-driven business hour matrices, input control validation for custom notifications, and live shop availability state switchers.
+- **💳 Billing & Plan Views:** Pixel-perfect subscription status cards, local promotional token application simulations, and interactive invoice download layouts.
+- **🎬 Viewport Motion Wrappers:** Fully integrated with a global viewport `<AnimationContainer />` component powered by customized Tailwind keyframes.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack & Architecture
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Framework:** Next.js (App Router - Client-Side State Driven)
+- **Styling:** Tailwind CSS (Utility-First)
+- **UI Components:** Shadcn UI Ecosystem (Optimized & Self-contained)
+- **Icons:** Lucide React
+- **Language:** TypeScript (`.tsx`)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📂 Frontend Directory Map
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The visual layer relies entirely on modular UI blocks arranged below:
+
+```text
+components/
+├── shared/
+│   ├── animationContainer/
+│   └── container/
+└── ui/
+    ├── alert-dialog.tsx
+    ├── badge.tsx
+    ├── breadcrumb.tsx
+    ├── button.tsx
+    ├── card.tsx
+    ├── dropdown-menu.tsx
+    ├── input.tsx
+    ├── label.tsx
+    ├── table.tsx
+    └── ... (ready-to-use frontend primitives)

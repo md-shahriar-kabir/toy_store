@@ -356,14 +356,14 @@ const CategoriesPage = () => {
 
                   <div className="flex items-center gap-2">
                     <Button
-                      variant={viewMode === "list" ? "default" : "outline"}
+                      variant={viewMode === "list" ? "primary" : "outline"}
                       size="icon"
                       onClick={() => setViewMode("list")}
                     >
                       <List className="h-4 w-4" />
                     </Button>
                     <Button
-                      variant={viewMode === "grid" ? "default" : "outline"}
+                      variant={viewMode === "grid" ? "primary" : "outline"}
                       size="icon"
                       onClick={() => setViewMode("grid")}
                     >

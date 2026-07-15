@@ -292,7 +292,7 @@ const ManageShopPage = () => {
                   <CardContent className="p-4 pt-6 space-y-2">
                     <Button
                       type="button"
-                      variant={shopData.status === "open" ? "default" : "outline"}
+                      variant={shopData.status === "open" ? "primary" : "outline"}
                       className={`w-full justify-start ${shopData.status === "open" ? "bg-green-600 hover:bg-green-700" : ""}`}
                       onClick={() => handleStatusChange("open")}
                     >
@@ -300,7 +300,7 @@ const ManageShopPage = () => {
                     </Button>
                     <Button
                       type="button"
-                      variant={shopData.status === "closed" ? "default" : "outline"}
+                      variant={shopData.status === "closed" ? "primary" : "outline"}
                       className={`w-full justify-start ${shopData.status === "closed" ? "bg-red-600 hover:bg-red-700" : ""}`}
                       onClick={() => handleStatusChange("closed")}
                     >
@@ -308,7 +308,7 @@ const ManageShopPage = () => {
                     </Button>
                     <Button
                       type="button"
-                      variant={shopData.status === "maintenance" ? "default" : "outline"}
+                      variant={shopData.status === "maintenance" ? "primary" : "outline"}
                       className={`w-full justify-start ${shopData.status === "maintenance" ? "bg-amber-600 hover:bg-amber-700" : ""}`}
                       onClick={() => handleStatusChange("maintenance")}
                     >

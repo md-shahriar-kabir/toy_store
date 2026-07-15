@@ -44,7 +44,6 @@ import {
   Mail,
   UserCheck,
   ShieldAlert,
-  Admin,
 } from "lucide-react";
 
 interface TeamMember {

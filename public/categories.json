@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "slug": "educational-toys",
+    "name": "Educational Toys",
+    "icon": "graduation-cap",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "slug": "remote-control-toys",
+    "name": "Remote Control Toys",
+    "icon": "radio",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "slug": "action-figures",
+    "name": "Action Figures",
+    "icon": "swords",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "slug": "dolls-plush",
+    "name": "Dolls & Plush",
+    "icon": "baby",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "slug": "building-blocks",
+    "name": "Building Blocks",
+    "icon": "blocks",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "slug": "puzzles",
+    "name": "Puzzles",
+    "icon": "puzzle",
+    "isFeatured": false
+  },
+  {
+    "id": 7,
+    "slug": "pretend-play",
+    "name": "Pretend Play",
+    "icon": "theater",
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "slug": "vehicle-toys",
+    "name": "Vehicle Toys",
+    "icon": "car",
+    "isFeatured": true
+  },
+  {
+    "id": 9,
+    "slug": "sports-toys",
+    "name": "Sports Toys",
+    "icon": "football",
+    "isFeatured": false
+  },
+  {
+    "id": 10,
+    "slug": "creative-toys",
+    "name": "Creative Toys",
+    "icon": "palette",
+    "isFeatured": true
+  },
+  {
+    "id": 11,
+    "slug": "science-kits",
+    "name": "Science Kits",
+    "icon": "flask",
+    "isFeatured": false
+  },
+  {
+    "id": 12,
+    "slug": "robot-toys",
+    "name": "Robot Toys",
+    "icon": "bot",
+    "isFeatured": true
+  },
+  {
+    "id": 13,
+    "slug": "musical-toys",
+    "name": "Musical Toys",
+    "icon": "music",
+    "isFeatured": false
+  },
+  {
+    "id": 14,
+    "slug": "outdoor-toys",
+    "name": "Outdoor Toys",
+    "icon": "tree",
+    "isFeatured": false
+  },
+  {
+    "id": 15,
+    "slug": "board-games",
+    "name": "Board Games",
+    "icon": "dice",
+    "isFeatured": false
+  },
+  {
+    "id": 16,
+    "slug": "bath-toys",
+    "name": "Bath Toys",
+    "icon": "droplet",
+    "isFeatured": false
+  },
+  {
+    "id": 17,
+    "slug": "soft-toys",
+    "name": "Soft Toys",
+    "icon": "heart",
+    "isFeatured": false
+  },
+  {
+    "id": 18,
+    "slug": "construction-toys",
+    "name": "Construction Toys",
+    "icon": "hammer",
+    "isFeatured": false
+  },
+  {
+    "id": 19,
+    "slug": "learning-games",
+    "name": "Learning Games",
+    "icon": "brain",
+    "isFeatured": false
+  },
+  {
+    "id": 20,
+    "slug": "animal-figures",
+    "name": "Animal Figures",
+    "icon": "paw",
+    "isFeatured": false
+  },
+  {
+    "id": 21,
+    "slug": "dinosaur-toys",
+    "name": "Dinosaur Toys",
+    "icon": "bone",
+    "isFeatured": true
+  },
+  {
+    "id": 22,
+    "slug": "art-craft",
+    "name": "Art & Craft",
+    "icon": "scissors",
+    "isFeatured": false
+  },
+  {
+    "id": 23,
+    "slug": "role-play-sets",
+    "name": "Role Play Sets",
+    "icon": "mask",
+    "isFeatured": false
+  },
+  {
+    "id": 24,
+    "slug": "kids-electronics",
+    "name": "Kids Electronics",
+    "icon": "cpu",
+    "isFeatured": false
+  },
+  {
+    "id": 25,
+    "slug": "cars-bikes",
+    "name": "Cars & Bikes",
+    "icon": "bike",
+    "isFeatured": false
+  },
+  {
+    "id": 26,
+    "slug": "baby-toys",
+    "name": "Baby Toys",
+    "icon": "pacifier",
+    "isFeatured": true
+  },
+  {
+    "id": 27,
+    "slug": "memory-games",
+    "name": "Memory Games",
+    "icon": "layers",
+    "isFeatured": false
+  },
+  {
+    "id": 28,
+    "slug": "educational-books",
+    "name": "Educational Books",
+    "icon": "book",
+    "isFeatured": false
+  },
+  {
+    "id": 29,
+    "slug": "magic-toys",
+    "name": "Magic Toys",
+    "icon": "sparkles",
+    "isFeatured": false
+  },
+  {
+    "id": 30,
+    "slug": "collectible-toys",
+    "name": "Collectible Toys",
+    "icon": "star",
+    "isFeatured": false
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "slug": "smart-robo-buddy",
+    "sku": "TOY-ROB-001",
+    "title": "Smart Robo Buddy",
+    "category": "Robot Toys",
+    "rating": 4.6,
+    "inStock": true,
+    "currentPrice": 2499,
+    "oldPrice": 2999,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "6-8",
+    "shortDescription": "Interactive smart robot toy with voice commands and LED expressions.",
+    "longDescription": {
+      "productOverview": [
+        "Smart Robo Buddy is an interactive educational robot designed for kids aged 5+.",
+        "It responds to voice commands, plays music, and teaches basic coding logic."
+      ],
+      "keyFeatures": [
+        "Voice recognition",
+        "LED facial expressions",
+        "Music & dance modes",
+        "Rechargeable battery"
+      ],
+      "productSpecifications": [
+        "Material: ABS Plastic",
+        "Battery: 1200mAh Rechargeable",
+        "Age Group: 5+",
+        "Charging Time: 2 hours"
+      ],
+      "warrantyInformation": [
+        "6 months manufacturer warranty",
+        "Covers manufacturing defects only"
+      ]
+    },
+    "images": [
+      "https://i.ibb.co.com/v4m0BC5j/robot.png",
+      "/images/toys/robot-2.png"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "remote-control-racing-car",
+    "sku": "TOY-CAR-002",
+    "title": "Remote Control Racing Car",
+    "category": "Remote Control Toys",
+    "rating": 4.4,
+    "inStock": false,
+    "currentPrice": 1899,
+    "oldPrice": 2299,
+    "isTrending": true,
+    "todayBestDeal": true,
+    "ageGroup": "6-8",
+    "shortDescription": "High-speed RC racing car with drift mode.",
+    "longDescription": {
+      "productOverview": [
+        "Designed for speed lovers, this RC car delivers thrilling performance.",
+        "Perfect for indoor and outdoor racing."
+      ],
+      "keyFeatures": [
+        "2.4GHz remote control",
+        "Drift mode",
+        "Shock-resistant body"
+      ],
+      "productSpecifications": [
+        "Speed: Up to 15 km/h",
+        "Range: 30 meters",
+        "Battery: 800mAh"
+      ],
+      "warrantyInformation": ["3 months warranty", "Battery not covered"]
+    },
+    "images": [
+      "https://i.ibb.co.com/v4m0BC5j/car.png",
+      "/images/toys/car-2.png"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "princess-dream-doll",
+    "sku": "TOY-DOLL-003",
+    "title": "Princess Dream Doll",
+    "category": "Dolls & Plush",
+    "rating": 4.8,
+    "inStock": true,
+    "currentPrice": 1299,
+    "oldPrice": 1599,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "3-5",
+    "shortDescription": "Beautiful princess doll with changeable dresses.",
+    "longDescription": {
+      "productOverview": [
+        "A perfect companion for imaginative role play.",
+        "Encourages creativity and storytelling."
+      ],
+      "keyFeatures": ["Soft body", "Changeable outfits", "Safe for kids"],
+      "productSpecifications": [
+        "Height: 12 inches",
+        "Material: Fabric & Plastic",
+        "Age Group: 3+"
+      ],
+      "warrantyInformation": ["No warranty applicable"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/doll.png"]
+  },
+  {
+    "id": 4,
+    "slug": "creative-building-blocks-set",
+    "sku": "TOY-BLOCK-004",
+    "title": "Creative Building Blocks Set",
+    "category": "Building Blocks",
+    "rating": 4.7,
+    "inStock": true,
+    "currentPrice": 1599,
+    "oldPrice": 1999,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "3-5",
+    "shortDescription": "Colorful building blocks to boost creativity.",
+    "longDescription": {
+      "productOverview": [
+        "Enhances problem-solving skills and creativity.",
+        "Ideal for early childhood learning."
+      ],
+      "keyFeatures": ["100+ pieces", "Bright colors", "Non-toxic materials"],
+      "productSpecifications": [
+        "Material: BPA-free plastic",
+        "Pieces: 120",
+        "Age Group: 3+"
+      ],
+      "warrantyInformation": ["No warranty required"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/blocks.png"]
+  },
+  {
+    "id": 5,
+    "slug": "giant-teddy-bear",
+    "sku": "TOY-PLUSH-005",
+    "title": "Giant Teddy Bear",
+    "category": "Dolls & Plush",
+    "rating": 4.9,
+    "inStock": false,
+    "currentPrice": 2999,
+    "oldPrice": 3499,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "0-2",
+    "shortDescription": "Soft and huggable giant teddy bear.",
+    "longDescription": {
+      "productOverview": [
+        "Super soft plush toy perfect for gifting.",
+        "Loved by kids and adults alike."
+      ],
+      "keyFeatures": ["Ultra-soft fabric", "Premium stitching", "Lightweight"],
+      "productSpecifications": [
+        "Height: 3 feet",
+        "Material: Polyester",
+        "Weight: 1.5kg"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/teddy.png"]
+  },
+  {
+    "id": 6,
+    "slug": "wooden-puzzle-board",
+    "sku": "TOY-PUZZ-006",
+    "title": "Wooden Puzzle Board",
+    "category": "Puzzles",
+    "rating": 4.5,
+    "inStock": true,
+    "currentPrice": 799,
+    "oldPrice": 999,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "3-5",
+    "shortDescription": "Educational wooden puzzle for early learners.",
+    "longDescription": {
+      "productOverview": [
+        "Helps improve hand-eye coordination.",
+        "Eco-friendly learning toy."
+      ],
+      "keyFeatures": ["Wooden design", "Bright illustrations", "Safe edges"],
+      "productSpecifications": [
+        "Material: Natural wood",
+        "Pieces: 20",
+        "Age Group: 2+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/puzzle.png"]
+  },
+  {
+    "id": 7,
+    "slug": "foam-dart-blaster",
+    "sku": "TOY-GUN-007",
+    "title": "Foam Dart Blaster",
+    "category": "Action Figures",
+    "rating": 4.3,
+    "inStock": true,
+    "currentPrice": 1399,
+    "oldPrice": 1699,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "6-8",
+    "shortDescription": "Safe foam dart blaster for action play.",
+    "longDescription": {
+      "productOverview": [
+        "Designed for safe indoor and outdoor play.",
+        "Boosts coordination and teamwork."
+      ],
+      "keyFeatures": ["Soft foam darts", "Easy reload", "Lightweight"],
+      "productSpecifications": [
+        "Range: 10 meters",
+        "Material: Plastic & foam",
+        "Age Group: 6+"
+      ],
+      "warrantyInformation": ["3 months warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/blaster.png"]
+  },
+  {
+    "id": 8,
+    "slug": "kids-doctor-play-kit",
+    "sku": "TOY-KIT-008",
+    "title": "Kids Doctor Play Kit",
+    "category": "Pretend Play",
+    "rating": 4.6,
+    "inStock": true,
+    "currentPrice": 1199,
+    "oldPrice": 1499,
+    "isTrending": false,
+    "todayBestDeal": false,
+    "ageGroup": "3-5",
+    "shortDescription": "Doctor role-play kit for kids.",
+    "longDescription": {
+      "productOverview": [
+        "Encourages role play and empathy.",
+        "Fun and educational."
+      ],
+      "keyFeatures": [
+        "Medical tools included",
+        "Safe plastic material",
+        "Portable box"
+      ],
+      "productSpecifications": [
+        "Items: 12",
+        "Material: Plastic",
+        "Age Group: 3+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/doctor.png"]
+  },
+  {
+    "id": 9,
+    "slug": "electric-toy-train-set",
+    "sku": "TOY-TRAIN-009",
+    "title": "Electric Toy Train Set",
+    "category": "Vehicle Toys",
+    "rating": 4.7,
+    "inStock": true,
+    "currentPrice": 2199,
+    "oldPrice": 2599,
+    "isTrending": true,
+    "todayBestDeal": true,
+    "ageGroup": "3-5",
+    "shortDescription": "Electric train set with tracks and lights.",
+    "longDescription": {
+      "productOverview": [
+        "Classic train set with modern features.",
+        "Perfect gift for kids."
+      ],
+      "keyFeatures": [
+        "Light & sound effects",
+        "Easy track assembly",
+        "Durable design"
+      ],
+      "productSpecifications": [
+        "Tracks: 12 pieces",
+        "Battery: AA",
+        "Age Group: 4+"
+      ],
+      "warrantyInformation": ["6 months warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/train.png"]
+  },
+  {
+    "id": 10,
+    "slug": "kids-football",
+    "sku": "TOY-BALL-010",
+    "title": "Kids Football",
+    "category": "Sports Toys",
+    "rating": 4.2,
+    "inStock": true,
+    "currentPrice": 499,
+    "oldPrice": 699,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "6-8",
+    "shortDescription": "Lightweight football for kids.",
+    "longDescription": {
+      "productOverview": [
+        "Ideal for outdoor play.",
+        "Improves physical activity."
+      ],
+      "keyFeatures": ["Soft material", "Easy grip", "Durable"],
+      "productSpecifications": ["Size: 3", "Material: Rubber", "Age Group: 5+"],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/football.png"]
+  },
+  {
+    "id": 11,
+    "slug": "kids-art-craft-box",
+    "sku": "TOY-ART-011",
+    "title": "Kids Art & Craft Box",
+    "category": "Creative Toys",
+    "rating": 4.8,
+    "inStock": true,
+    "currentPrice": 1799,
+    "oldPrice": 2199,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "6-8",
+    "shortDescription": "Complete art & craft set for kids.",
+    "longDescription": {
+      "productOverview": [
+        "Unleash creativity with multiple art tools.",
+        "Perfect for learning and fun."
+      ],
+      "keyFeatures": ["50+ items", "Non-toxic colors", "Portable box"],
+      "productSpecifications": [
+        "Items: 52",
+        "Material: Mixed",
+        "Age Group: 4+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/art.png"]
+  },
+  {
+    "id": 12,
+    "slug": "dinosaur-action-figure",
+    "sku": "TOY-ANIM-012",
+    "title": "Dinosaur Action Figure",
+    "category": "Dinosaur Toys",
+    "rating": 4.5,
+    "inStock": true,
+    "currentPrice": 999,
+    "oldPrice": 1299,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "3-5",
+    "shortDescription": "Realistic dinosaur action figure.",
+    "longDescription": {
+      "productOverview": [
+        "Highly detailed dinosaur toy.",
+        "Great for collectors and kids."
+      ],
+      "keyFeatures": ["Realistic texture", "Durable build", "Poseable limbs"],
+      "productSpecifications": [
+        "Height: 10 inches",
+        "Material: PVC",
+        "Age Group: 4+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/dino.png"]
+  },
+  {
+    "id": 13,
+    "slug": "baby-rattle-toy-set",
+    "sku": "TOY-BABY-013",
+    "title": "Baby Rattle Toy Set",
+    "category": "Baby Toys",
+    "rating": 4.6,
+    "inStock": true,
+    "currentPrice": 499,
+    "oldPrice": 699,
+    "isTrending": false,
+    "todayBestDeal": false,
+    "ageGroup": "0-2",
+    "shortDescription": "Colorful rattle toys for babies.",
+    "longDescription": {
+      "productOverview": [
+        "Stimulates sensory development.",
+        "Safe for newborns."
+      ],
+      "keyFeatures": ["Bright colors", "Easy to grip", "BPA-free"],
+      "productSpecifications": [
+        "Material: Food-grade silicone",
+        "Set: 4 pieces",
+        "Age Group: 0-2"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/rattle.png"]
+  },
+  {
+    "id": 14,
+    "slug": "science-experiment-kit",
+    "sku": "TOY-SCI-014",
+    "title": "Science Experiment Kit",
+    "category": "Science Kits",
+    "rating": 4.7,
+    "inStock": true,
+    "currentPrice": 1999,
+    "oldPrice": 2499,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "9-12",
+    "shortDescription": "Fun science experiments for kids.",
+    "longDescription": {
+      "productOverview": [
+        "Teaches basic scientific concepts.",
+        "Hands-on learning experience."
+      ],
+      "keyFeatures": [
+        "30+ experiments",
+        "Safe chemicals",
+        "Instruction manual"
+      ],
+      "productSpecifications": [
+        "Material: Plastic & chemicals",
+        "Age Group: 8+",
+        "Experiments: 35"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/science.png"]
+  },
+  {
+    "id": 15,
+    "slug": "magic-trick-set",
+    "sku": "TOY-MAG-015",
+    "title": "Magic Trick Set",
+    "category": "Magic Toys",
+    "rating": 4.4,
+    "inStock": true,
+    "currentPrice": 1299,
+    "oldPrice": 1599,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "6-8",
+    "shortDescription": "Complete magic trick set for beginners.",
+    "longDescription": {
+      "productOverview": [
+        "Learn amazing magic tricks.",
+        "Boosts confidence and presentation skills."
+      ],
+      "keyFeatures": ["25 tricks", "Instructional DVD", "Portable case"],
+      "productSpecifications": [
+        "Material: Plastic & fabric",
+        "Age Group: 6+",
+        "Tricks: 25"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/magic.png"]
+  },
+  {
+    "id": 16,
+    "slug": "kids-tablet",
+    "sku": "TOY-TAB-016",
+    "title": "Kids Learning Tablet",
+    "category": "Kids Electronics",
+    "rating": 4.5,
+    "inStock": true,
+    "currentPrice": 3499,
+    "oldPrice": 3999,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "3-5",
+    "shortDescription": "Educational tablet with preloaded games.",
+    "longDescription": {
+      "productOverview": [
+        "Designed for early learning.",
+        "Parental control features."
+      ],
+      "keyFeatures": ["100+ activities", "Parental controls", "Durable design"],
+      "productSpecifications": [
+        "Screen: 7-inch",
+        "Battery: 3000mAh",
+        "Age Group: 3-8"
+      ],
+      "warrantyInformation": ["1 year warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/tablet.png"]
+  },
+  {
+    "id": 17,
+    "slug": "balance-bike",
+    "sku": "TOY-BIKE-017",
+    "title": "Kids Balance Bike",
+    "category": "Cars & Bikes",
+    "rating": 4.8,
+    "inStock": true,
+    "currentPrice": 2799,
+    "oldPrice": 3299,
+    "isTrending": true,
+    "todayBestDeal": true,
+    "ageGroup": "3-5",
+    "shortDescription": "Wooden balance bike for toddlers.",
+    "longDescription": {
+      "productOverview": [
+        "Helps develop balance and coordination.",
+        "No pedals, easy to use."
+      ],
+      "keyFeatures": ["Wooden frame", "Adjustable seat", "Pneumatic tires"],
+      "productSpecifications": [
+        "Material: Birch wood",
+        "Weight: 3.5kg",
+        "Age Group: 2-5"
+      ],
+      "warrantyInformation": ["6 months warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/bike.png"]
+  },
+  {
+    "id": 18,
+    "slug": "interactive-globe",
+    "sku": "TOY-GLO-018",
+    "title": "Interactive Talking Globe",
+    "category": "Educational Toys",
+    "rating": 4.6,
+    "inStock": true,
+    "currentPrice": 2999,
+    "oldPrice": 3499,
+    "isTrending": false,
+    "todayBestDeal": false,
+    "ageGroup": "9-12",
+    "shortDescription": "Interactive globe with voice facts.",
+    "longDescription": {
+      "productOverview": [
+        "Teaches geography in a fun way.",
+        "Includes quizzes and games."
+      ],
+      "keyFeatures": ["Voice narration", "Quiz mode", "LED lights"],
+      "productSpecifications": [
+        "Diameter: 12 inches",
+        "Languages: 5",
+        "Age Group: 8+"
+      ],
+      "warrantyInformation": ["1 year warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/globe.png"]
+  },
+  {
+    "id": 19,
+    "slug": "water-gun",
+    "sku": "TOY-GUN-019",
+    "title": "Super Soaker Water Gun",
+    "category": "Outdoor Toys",
+    "rating": 4.3,
+    "inStock": true,
+    "currentPrice": 899,
+    "oldPrice": 1199,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "6-8",
+    "shortDescription": "Large capacity water gun for summer fun.",
+    "longDescription": {
+      "productOverview": [
+        "Perfect for outdoor water fights.",
+        "Easy to fill and use."
+      ],
+      "keyFeatures": [
+        "1000ml capacity",
+        "Adjustable nozzle",
+        "Comfortable grip"
+      ],
+      "productSpecifications": [
+        "Capacity: 1 liter",
+        "Material: Plastic",
+        "Age Group: 6+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/watergun.png"]
+  },
+  {
+    "id": 20,
+    "slug": "3d-pen-set",
+    "sku": "TOY-PEN-020",
+    "title": "3D Drawing Pen Set",
+    "category": "Creative Toys",
+    "rating": 4.7,
+    "inStock": true,
+    "currentPrice": 2499,
+    "oldPrice": 2999,
+    "isTrending": true,
+    "todayBestDeal": true,
+    "ageGroup": "12+",
+    "shortDescription": "Create 3D objects with this drawing pen.",
+    "longDescription": {
+      "productOverview": [
+        "Turns drawings into 3D objects.",
+        "Encourages creativity and STEM learning."
+      ],
+      "keyFeatures": [
+        "Adjustable temperature",
+        "LCD display",
+        "Includes filaments"
+      ],
+      "productSpecifications": [
+        "Filament: PLA",
+        "Temperature: 60-200°C",
+        "Age Group: 12+"
+      ],
+      "warrantyInformation": ["6 months warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/3dpen.png"]
+  },
+  {
+    "id": 21,
+    "slug": "chess-board",
+    "sku": "TOY-CHESS-021",
+    "title": "Magnetic Chess Board",
+    "category": "Board Games",
+    "rating": 4.6,
+    "inStock": true,
+    "currentPrice": 799,
+    "oldPrice": 999,
+    "isTrending": false,
+    "todayBestDeal": false,
+    "ageGroup": "9-12",
+    "shortDescription": "Magnetic chess board for travel.",
+    "longDescription": {
+      "productOverview": [
+        "Perfect for learning and playing chess.",
+        "Magnetic pieces stay in place."
+      ],
+      "keyFeatures": ["Magnetic pieces", "Folding board", "Portable"],
+      "productSpecifications": [
+        "Board: 10x10 inches",
+        "Material: Wood",
+        "Age Group: 8+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/chess.png"]
+  },
+  {
+    "id": 22,
+    "slug": "bath-animal-set",
+    "sku": "TOY-BATH-022",
+    "title": "Floating Bath Animals",
+    "category": "Bath Toys",
+    "rating": 4.4,
+    "inStock": true,
+    "currentPrice": 399,
+    "oldPrice": 599,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "0-2",
+    "shortDescription": "Colorful floating animals for bath time.",
+    "longDescription": {
+      "productOverview": [
+        "Makes bath time fun and enjoyable.",
+        "Safe for babies and toddlers."
+      ],
+      "keyFeatures": ["6 animals", "Floating design", "Non-toxic material"],
+      "productSpecifications": [
+        "Material: PVC-free",
+        "Set: 6 pieces",
+        "Age Group: 0-3"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/bathtoy.png"]
+  },
+  {
+    "id": 23,
+    "slug": "stuffed-animal-collection",
+    "sku": "TOY-ANIM-023",
+    "title": "Stuffed Animal Collection",
+    "category": "Soft Toys",
+    "rating": 4.8,
+    "inStock": true,
+    "currentPrice": 1999,
+    "oldPrice": 2499,
+    "isTrending": true,
+    "todayBestDeal": false,
+    "ageGroup": "0-2",
+    "shortDescription": "Set of 6 soft stuffed animals.",
+    "longDescription": {
+      "productOverview": [
+        "Perfect for cuddling and comfort.",
+        "Includes various animal friends."
+      ],
+      "keyFeatures": ["Super soft", "Machine washable", "Hypoallergenic"],
+      "productSpecifications": [
+        "Material: Polyester fiber",
+        "Set: 6 pieces",
+        "Age Group: 0+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/stuffed.png"]
+  },
+  {
+    "id": 24,
+    "slug": "construction-vehicle-set",
+    "sku": "TOY-CONST-024",
+    "title": "Construction Vehicle Set",
+    "category": "Construction Toys",
+    "rating": 4.5,
+    "inStock": true,
+    "currentPrice": 1599,
+    "oldPrice": 1999,
+    "isTrending": false,
+    "todayBestDeal": true,
+    "ageGroup": "3-5",
+    "shortDescription": "Set of 8 construction vehicles.",
+    "longDescription": {
+      "productOverview": [
+        "Realistic construction vehicles for imaginative play.",
+        "Durable and detailed."
+      ],
+      "keyFeatures": [
+        "8 different vehicles",
+        "Moving parts",
+        "Realistic design"
+      ],
+      "productSpecifications": [
+        "Material: Die-cast metal",
+        "Set: 8 pieces",
+        "Age Group: 3+"
+      ],
+      "warrantyInformation": ["No warranty"]
+    },
+    "images": ["https://i.ibb.co.com/v4m0BC5j/construction.png"]
+  }
+]

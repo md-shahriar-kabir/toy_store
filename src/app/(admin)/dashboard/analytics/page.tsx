@@ -92,7 +92,7 @@ const AnalyticsPage = () => {
             {/* Time Filter Control */}
             <div className="flex items-center gap-1 bg-gray-100 p-1 rounded-lg border w-fit">
               <Button
-                variant={timeRange === "7d" ? "default" : "outline"}
+                variant={timeRange === "7d" ? "primary" : "outline"}
                 size="sm"
                 onClick={() => setTimeRange("7d")}
                 className="h-8 text-xs"
@@ -100,7 +100,7 @@ const AnalyticsPage = () => {
                 7 Days
               </Button>
               <Button
-                variant={timeRange === "30d" ? "default" : "outline"}
+                variant={timeRange === "30d" ? "primary" : "outline"}
                 size="sm"
                 onClick={() => setTimeRange("30d")}
                 className="h-8 text-xs"
@@ -108,7 +108,7 @@ const AnalyticsPage = () => {
                 30 Days
               </Button>
               <Button
-                variant={timeRange === "12m" ? "default" : "pra"}
+                variant={timeRange === "12m" ? "primary" : "outline"}
                 size="sm"
                 onClick={() => setTimeRange("12m")}
                 className="h-8 text-xs"
